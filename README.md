@@ -1,4 +1,4 @@
-# Lab #Template / Εργαστήριο #Template
+# Lab 9 / Εργαστήριο 9
 
 Name/Ονοματεπώνυμο:
 
